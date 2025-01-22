@@ -1,2 +1,2 @@
-# Algorand-nodes-for-dummies
-Collection of knowledge of building and setting up a Algorand participation node.
+# Algorand Nodes For Dummies
+Collection of knowledge for building and setting up a Algorand participation node.
